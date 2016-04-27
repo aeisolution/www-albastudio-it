@@ -1,0 +1,18 @@
+/* Header */
+.header-text.btn{
+	height: 80px;
+}
+
+.header-text h2 {
+  text-transform: none;
+}
+
+/* Voci attività */
+.service h4 {
+  min-height: 34px;
+}
+
+/* contatti */
+address a {
+  color: #fff;
+}
